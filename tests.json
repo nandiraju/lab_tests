@@ -1,38 +1,44 @@
 [
   {
+    "image": "https://nandiraju.github.io/lab_tests/card_images/hrd.png",
     "fileName": "OncoHRD new brochure.pdf",
     "title": "OncoHRD – Homologous Recombination Deficiency Test",
     "summary": "An NGS-based assay designed to detect homologous recombination deficiency and related genomic signatures to guide targeted therapy and treatment selection in solid tumors."
   },
   {
+    "image": "https://nandiraju.github.io/lab_tests/card_images/indx.png",
     "fileName": "OncoIndx new brochure.pdf",
     "title": "OncoIndx – Comprehensive Tumor Genomic Profiling",
     "summary": "A broad genomic profiling test that analyzes multiple cancer-related genes to identify actionable mutations and support personalized oncology treatment decisions."
   },
   {
+    "image": "https://nandiraju.github.io/lab_tests/card_images/primeplus.png",
     "fileName": "OncoIndx prime+ new brochure.pdf",
     "title": "OncoIndx Prime+ – Enhanced Precision Oncology Panel",
     "summary": "An advanced version of OncoIndx offering expanded gene coverage and deeper insights for complex cancer cases requiring high-confidence, precision-guided therapy."
   },
   {
+    "image": "https://nandiraju.github.io/lab_tests/card_images/indxtbx.png",
     "fileName": "OncoIndx tbx new brochure.pdf",
     "title": "OncoIndx TBx – Integrated DNA & RNA NGS Test",
     "summary": "An integrated genomic and transcriptomic profiling assay covering 1000+ genes, fusions, TMB, MSI, and HRD to enable evidence-based, AI-assisted clinical decisions in advanced and refractory solid tumors."
   },
   {
+    "image": "https://nandiraju.github.io/lab_tests/card_images/monitor.png",
     "fileName": "OncoMonitor new brochure.pdf",
     "title": "OncoMonitor – Longitudinal Cancer Monitoring",
     "summary": "A monitoring solution designed to track cancer progression, treatment response, and emerging resistance markers over time using molecular insights."
   },
   {
+    "image": "https://nandiraju.github.io/lab_tests/card_images/risk.png",
     "fileName": "OncoRisk new brochure.pdf",
     "title": "OncoRisk – Cancer Risk Assessment",
     "summary": "A genomic test focused on identifying inherited and acquired cancer risk markers to support early detection, prevention strategies, and informed clinical management."
   },
   {
+    "image": "https://nandiraju.github.io/lab_tests/card_images/target.png",
     "fileName": "OncoTarget new brochure.pdf",
     "title": "OncoTarget – Actionable Mutation Identification",
     "summary": "A targeted NGS panel aimed at detecting clinically actionable genetic alterations to match patients with the most effective targeted and immunotherapy options."
   }
 ]
-
